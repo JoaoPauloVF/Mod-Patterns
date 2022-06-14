@@ -1,14 +1,18 @@
-# Title
+# Mod Patterns
 
-Short desc with [TIC-80 site link](https://tic80.com/).
+Mod Patterns is a generator of nice geometric patterns made with the [TIC-80 fantasy console](https://tic80.com/).
+
+It can do this from modulo operations and much code.
 
 ![gif of the cartridge demo.](gifs/demo.gif)
 
-[Click here][cartridge web page] to try the cartridge on the TIC-80 site.
+[Explore the options][cartridge web page] to discover several other patterns!
 
 ## Controls
 
-How to control
+* Press the UP and DOWN arrows to alter the menu option.
+* Press the LEFT and RIGHT arrows to alter the option value.
+* Press Z to hide/show the texts.
 
 ## How to get the code
 
@@ -24,7 +28,7 @@ How to control
 
   ![demo of how to access the cartridges on the TIC-80](/gifs/seeOnTic.gif)
 
-[cartridge web page]:https://tic80.com/play?cart=2628
+[cartridge web page]:https://tic80.com/play?cart=2843
 
 ## See also
 
